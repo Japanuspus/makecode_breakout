@@ -1,8 +1,7 @@
 {
     "name": "janusbreakout",
     "dependencies": {
-        "device": "*",
-        "storyboard": "*"
+        "device": "*"
     },
     "description": "",
     "files": [
@@ -10,7 +9,7 @@
         "main.ts",
         "README.md"
     ],
-    "preferredEditor": "tsprj",
+    "preferredEditor": "blocksprj",
     "testFiles": [
         "test.ts"
     ]
